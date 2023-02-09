@@ -2,7 +2,7 @@
 
 This project is about marketing campaign for a food company. We need to get insights about customers characteristics and behavior to maximize profits from the coming campaign. 
 
-It aims to provide valuable insights into the different customer segments, including their purchasing behavior, demographic information, and preferences, which can be useful for targeting marketing campaigns, personalizing products, and improving customer experiences.
+We aim to provide valuable insights into the different customer segments, including their purchasing behavior, demographic information, and preferences, which can be useful for targeting marketing campaigns, personalizing products, and improving customer experiences.
 
 The following steps have been completed:
 - data cleaning using sql;
