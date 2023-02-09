@@ -1,6 +1,6 @@
 # Data_Science_Marketing_Use_Case
 
-This project is about marketing campaign for a food company. We need to get insights about customers characteristics and behavior to maximize profits from the coming campaign. 
+This project is about marketing campaigns for a food company. We need to get insights about customers characteristics and behavior to maximize profits from the coming campaign. 
 
 We aim to provide valuable insights into the different customer segments, including their purchasing behavior, demographic information, and preferences, which can be useful for targeting marketing campaigns, personalizing products, and improving customer experiences.
 
